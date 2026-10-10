@@ -19,6 +19,9 @@ Description:
     Clicked {{ count }} times
   </button>
 
+  <p>Updated on October 9th!</p>
+
+
   <ul class="info-list">
     <li>Vue 3</li>
     <li>Vite</li>
