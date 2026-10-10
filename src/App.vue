@@ -19,7 +19,7 @@ Description:
     Clicked {{ count }} times
   </button>
 
-  <p>Updated on October 9th!</p>
+  <h2 class="main-header">Updated on October 9th!</h2>
 
 
   <ul class="info-list">
